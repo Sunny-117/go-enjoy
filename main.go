@@ -18,6 +18,6 @@ func main() {
 	// var a, b = getSumAndSub(3, 2)
 	// fmt.Println(a, b)
 	// test.Demo1()
-	test.Demo4()
+	test.Demo5()
 
 }
